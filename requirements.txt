@@ -1,0 +1,4 @@
+# Versions recorded from the working controller environment on 2026-11-10.
+numpy==2.5.3
+scipy==1.18.1
+osqp==1.1.3

@@ -1,0 +1,41 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+venv/
+.idea/
+.vscode/
+
+# Simulation outputs and raw controller logs stay local
+/data/
+*.sim
+*.dat
+*.xlsx
+*.xls
+*.log
+
+# Native build products; track source, not compiled copies
+*.dll
+*.pdb
+*.obj
+*.o
+*.lib
+*.exp
+/build/
+/dist/
+
+# OrcaFlex SDK is supplied by the installed software
+/dll_source/sdk/
+
+# Local backups and credentials
+*.bak
+*.tmp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+.DS_Store
+Thumbs.db

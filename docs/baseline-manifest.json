@@ -1,0 +1,25 @@
+{
+  "baseline_date": "2026-11-10",
+  "python_original_files_sha256": {
+    "adp_wave_para_est.py": "96fe722873aa7f664167f99d9b598f56374f65b33259c5e8a99f298fba45341e",
+    "data_logger.py": "052166859eaea3a78da7a54bc9cce5bfe2b7d6a24fbb7d40d1183b1e94e234b1",
+    "EKFV1.py": "54e4dc04d97c9ede4dea368e760a19b9b68aeb69baf72d658ceac25b0afddf44",
+    "main.py": "6d3a61f3adfa5d985bd6073c7cc563d005462dbdcdaf81e31848bbf6a627eaa9",
+    "npo_v4.py": "d3f0f86bc5dcff5157c63de10474b5dc6e5d7614db4795489bb4b7ba0ba5d459",
+    "para_def.py": "0ce726ba9f4d2077e2b89b82d26ec58e84d5563d1389022978a74254a068fdbf",
+    "pid_controller.py": "20e8815322e34dc2c09e5273cbca8268a6072775d207cc47daeda54adb2471ad",
+    "refFilter.py": "5b1661551693f90326092dfb2c03a5e744eff3738c6ca44ac63debc47abab6ba",
+    "tcp_manager.py": "4469cb3be4b649d0511fb6cf8342d7e28f1c6216c58af44f34816d687e59a3ae",
+    "tcp_worker.py": "26e44960cd07105455e45626ed7c3b7a8e02420a7389d8020aa644419bfc1132",
+    "thrust_allocation2.py": "0e341c8b69f3ae431eb1cad374f7331a174bb155b0239ec2a2ac65bb1799bccd",
+    "dll_source\\KSKDPExternalFunction.c": "3b25daa626a7d545114811e0dcb88b4ad699d592f3b56cfc96ed86b931fcdc7e",
+    "run_kskdp.cmd": "a868b69fca2ec81701f5d3ba8af12227ea813332692b7f56dced5bf013103014"
+  },
+  "verified_dll_sha256": "c7de51f10cb9ffb51bcf7f5195f983daa9235c0d727455e050737b8c8eca6cc6",
+  "original_model_sim_sha256": "23867d783ef7c60698e4d7c183b4f11dcfa232a9b9eb49db4c00f4d31d991610",
+  "original_export_xlsx_sha256": "7b20060dfe5facb5a8809eeae61326cfcf769b922c27f4032578f691c804e57b",
+  "controller_log_name": "KSK_23012_20261109_163946.csv",
+  "controller_log_sha256": "62489f11d7d51e7b8f48842cb6c3fc2610897dfa30b2ee143a01a6ed5880c3c1",
+  "text_model_sha256": "684932eabe89424bcff237d6c3f670e0339760de8b643a228a4e4a8722661985",
+  "baseline_status": "Original Python controller unchanged; EKF yaw inertia proposal not applied; no candidate OrcaFlex rerun."
+}
